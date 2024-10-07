@@ -1,2 +1,1 @@
-# correlacao_regressao
-#dataanalytics
+Exercício individual #womakerscode
